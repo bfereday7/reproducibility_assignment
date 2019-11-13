@@ -1,0 +1,2 @@
+articleID,reportedValue,obtainedValue,valueType,percentageError,comparisonOutcome,eyeballCheck
+-2010,0.028,0.1,p,257.14285714285717,DECISION_ERROR,NA
